@@ -26,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../src/HiKotlin.kt" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager">
     <configuration name="HiKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -59,10 +60,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="975" y="356" key="FileChooserDialogImpl" timestamp="1596537622382">
+    <state x="975" y="356" key="FileChooserDialogImpl" timestamp="1596537820722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="975" y="356" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596537622382" />
+    <state x="975" y="356" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596537820722" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1596537716613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -79,5 +80,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596537716613" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1596537821117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596537821117" />
+    <state x="339" y="203" key="new project wizard" timestamp="1596799014711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="339" y="203" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596799014711" />
   </component>
 </project>
